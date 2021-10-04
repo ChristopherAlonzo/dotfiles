@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = christopherdasilva01@outlook.com
+	name = Christopher Alonzo
